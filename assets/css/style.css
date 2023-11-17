@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0174be;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bolder;
+}
+
+.completo {
+  margin-top: 3em;
+  margin-left: 30%;
+  width: 35em;
+}
+img {
+  width: 30rem;
+  margin-top: 5rem;
+}
+.card {
+  background-color: #ffc436;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-style: solid;
+  border-radius: 20px;
+}
+.foto {
+  border-style: dashed;
+  border-radius: 20px;
+}
